@@ -28,6 +28,12 @@ class TestProvaQuest(MockBD):
         nome = 'Carla'
         resultado = Q2(self.mock_db_config.get('bd'), nome)
         self.assertEqual(resultado, retorno_esperado)
+
+    def test_Q2Nulo(self):
+        retorno_esperado = []
+        nome = 'Paulo'
+        resultado = Q2(self.mock_db_config.get('bd'), nome)
+        self.assertEqual(resultado, retorno_esperado)
     
    
 

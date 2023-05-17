@@ -1,0 +1,29 @@
+Caso de teste de Banco questão 01(Encontrar a maior média já vista em uma turma de código TAD0203)
+
+○ Por que escolheu esses casos de teste? 
+Escolhi pois achei uma questão simples e de facil desenvolvimento. 
+
+○ Testou todas as possíveis condições diferentes? 
+
+Acredito que sim, testei uma nota alta e uma pequena, pois essa questão é uma questão que devolve a maior nota de uma turma a maior nota pode ser tanto um zero quanto um dez.
+
+
+Caso de teste de Banco questão 02(Listar todas as turmas (nome) e a média final (media) cursadas por um aluno (por exemplo,
+'Carla')
+
+○ Por que escolheu esses casos de teste? 
+Escolhi pois achei uma questão simples e de facil desenvolvimento. 
+
+○ Testou todas as possíveis condições diferentes? 
+
+Acredito que sim, testei quando a pessoa existe no banco e quando não existe. 
+
+Caso de teste de Banco questão 04(Listar o nome das turmas que tiveram alunos que tiraram média maior ou igual a 9,0.)
+
+○ Por que escolheu esses casos de teste? 
+Escolhi pois achei uma questão simples e de facil desenvolvimento. 
+
+○ Testou todas as possíveis condições diferentes? 
+
+Acredito que sim, testei quando existe alguma turma com uma nota que existe no banco(9.0) e testei com uma nota que nehuma turma poderia ter(10.0) 
+
