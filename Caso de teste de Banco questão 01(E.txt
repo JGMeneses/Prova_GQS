@@ -1,3 +1,21 @@
+Casos de testes sem utilizar banco 
+
+questão 01
+- O primeiro teste foi escolhido para verificar se retorna dois alunos com notas iguais, sendo essas notas as maiores.
+- O segundo teste foi escolhido quando apenas um aluno tem a maior nota
+- O terceiro teste foi escolhido para verificar caso a função recebesse uma lista vazia
+
+Questao 02
+- Situação 1: teste para verificar a situação em que o aluno tenha reprovado em algumas disciplinas que pagou.
+- Situação 2: teste para verificar a situação em que o aluno reprovou em TODAS as disciplinas que pagou
+- Situação 3: teste para verificar a situação em que o aluno foi aprovado em todas as disciplinas que pagou, retornando apenas as disciplinas restantes.
+
+Questão 03
+- Situação 1: como é um teste para verificar a média dos professores, foi feito apenas 1 teste, onde o prof de id=1 representa 3 disciplinas, o de id=2 representa 2 disciplinas e o de id=3 apenas 1 disciplina. 
+
+○ Testou todas as possíveis condições diferentes? 
+Em todas as questões, acredito que foram feitos todos os testes necessários.
+
 Caso de teste de Banco questão 01(Encontrar a maior média já vista em uma turma de código TAD0203)
 
 ○ Por que escolheu esses casos de teste? 
@@ -9,7 +27,7 @@ Acredito que sim, testei uma nota alta e uma pequena, pois essa questão é uma 
 
 
 Caso de teste de Banco questão 02(Listar todas as turmas (nome) e a média final (media) cursadas por um aluno (por exemplo,
-'Carla')
+'Carla'))
 
 ○ Por que escolheu esses casos de teste? 
 Escolhi pois achei uma questão simples e de facil desenvolvimento. 
